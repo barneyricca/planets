@@ -1,5 +1,9 @@
 Mars is cold and dry and the setting for most of the film "The Martian."
 
+<<<<<<< HEAD
 ~Here's some more stuff about Mars: It looks red from the earth because there is rust everywhere.
+=======
+  Here's some more stuff about Mars: It looks like its glowing from the earth because its far away and the photons bounce off of it and into earth, giving it a shining effect.
+>>>>>>> 50b6238d0da5b1ab0acf9e4fbb31244aea41beb0
 
 NASA is launching a Mars mission(soon)
